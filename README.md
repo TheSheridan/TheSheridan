@@ -1,6 +1,5 @@
-Lorem ipsum.
+𝙻𝚘𝚛𝚎𝚖 𝚒𝚙𝚜𝚞𝚖 𝚍𝚘𝚕𝚘𝚛 𝚜𝚒𝚝 𝚊𝚖𝚎𝚝.
 
 <!---
-xXLeandro12/xXLeandro12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Github be like
+<!---i've made it ✨ special ✨---->
